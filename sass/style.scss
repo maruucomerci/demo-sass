@@ -3,3 +3,11 @@
 body {
     background-color: $color-fondo;
 }
+
+.breadcrumb{
+    ul li{
+      display: inline-block;
+      &:hover {background: red;
+      }
+    }
+  }

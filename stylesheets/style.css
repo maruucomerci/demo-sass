@@ -2,3 +2,12 @@
 body {
   background-color: #ccc;
 }
+
+/* line 8, ../sass/style.scss */
+.breadcrumb ul li {
+  display: inline-block;
+}
+/* line 10, ../sass/style.scss */
+.breadcrumb ul li:hover {
+  background: red;
+}
